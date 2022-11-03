@@ -16,7 +16,7 @@ function App() {
       {!appear ? (
         <div>
           <div className="scanImage">
-            <iframe  src="https://giphy.com/embed/taVCVuunNzQjBKTrYn" width="361" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+            <iframe  src="https://giphy.com/embed/taVCVuunNzQjBKTrYn" width="361" height="480" frameBorder="0" className="giphy-embed" allowFullScreen></iframe>
           </div>
           <div className="scan-1">
             <button className="button-27" onClick={appearFunc}>
